@@ -1,0 +1,16 @@
+# Ignorar dependencias (muy pesado para subir a la nube)
+node_modules/
+
+# Ignorar variables de entorno con contraseñas o datos sensibles
+.env
+
+# Ignorar carpetas de compilación o distribución
+dist/
+build/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+#Archivos
+Archivo_No_Va.txt
