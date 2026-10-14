@@ -1,5 +1,5 @@
 # Ignorar dependencias (muy pesado para subir a la nube)
-node_modules/
+.venv/
 
 # Ignorar variables de entorno con contraseñas o datos sensibles
 .env
